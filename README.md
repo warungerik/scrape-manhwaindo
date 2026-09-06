@@ -5,13 +5,8 @@
 ![Node](https://img.shields.io/badge/Node-18%2B-339933?logo=node.js&logoColor=white)
 ![Deps](https://img.shields.io/badge/deps-0-blue)
 ![License](https://img.shields.io/badge/license-MIT-green)
-![Platform](https://img.shields.io/badge/platform-Windows%20%7C%20Linux%20%7C%20macOS-lightgrey)
 
 Scrape manhwaindo.my pakai Node.js stdlib. Tanpa `npm install`.
-
-<a href="http://warungerik.com/payment"><img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me A Coffee"></a>
-<a href="https://github.com/warungerik/manhwaindo-scraper"><img src="https://img.shields.io/badge/Star-181717?style=for-the-badge&logo=github&logoColor=white" alt="Star"></a>
-<a href="https://github.com/warungerik/manhwaindo-scraper/issues"><img src="https://img.shields.io/badge/Report_Bug-red?style=for-the-badge&logo=github&logoColor=white" alt="Report Bug"></a>
 
 </div>
 
@@ -108,7 +103,5 @@ File ini rilis di bawah [MIT](LICENSE). Pakai, ubah, jual. Sertakan file lisensi
 <div align="center">
 
 <a href="http://warungerik.com/payment"><img src="https://img.shields.io/badge/☕_Traktir_Kopi-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Traktir Kopi"></a>
-
-Bantu server tetap nyala.
 
 </div>
